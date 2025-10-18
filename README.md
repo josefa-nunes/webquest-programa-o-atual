@@ -1,5 +1,5 @@
 # webquest-programa-o-atual
-public class TesteVeiculo {
+#public class TesteVeiculo {
     public static void main(String[] args) {
         Veiculo v = new Veiculo();
         v.setPlaca("ABC-1234");
