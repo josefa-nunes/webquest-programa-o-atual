@@ -15,4 +15,3 @@ public class TesteVeiculo {
         System.out.println("IPVA: R$" + v.calcularIpva());
     }
 }
-
