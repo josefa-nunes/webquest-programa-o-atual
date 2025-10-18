@@ -21,7 +21,8 @@ Vitor Gabriel de Sousa Oliveira Sales
     private String modelo;
     private int ano;
     private double valor;
-
+    
+// Métodos Getters e Setters - para acessar e modificar os atributos
     public String getPlaca() {
         return placa;
     }
