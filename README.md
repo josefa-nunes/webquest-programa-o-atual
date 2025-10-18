@@ -1,4 +1,10 @@
-# webquest-programa-o-atual
+# 2º webquest-programação 
+Josefa Rodrigues Nunes
+Josiana Rodrigues da Silva
+Joseane Marli Moreira Coelho
+Tiago da Silva Brito
+Vitor Gabriel de Sousa Oliveira Sales
+
 #public class TesteVeiculo {
     public static void main(String[] args) {
         Veiculo v = new Veiculo();
@@ -16,7 +22,6 @@
     private int ano;
     private double valor;
 
-    // Métodos Getters e Setters - para acessar e modificar os atributos
     public String getPlaca() {
         return placa;
     }
